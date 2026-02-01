@@ -13,3 +13,5 @@ I code in HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 - Git & GitHub
+- React
+
